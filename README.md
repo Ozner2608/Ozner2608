@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 
-# Hi, I'm Vivek Chauhan 👋
+# Hoolaaa, Soy Renzo Guerrero 👋
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 
-- 👋 hola, Soy @nippur750
+- 👋 hola, Soy @Ozner2608
 
 - 👀 acá hay un poco de cualquier cosa..
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 - 💞️ se colabora en todo lo que se puede.
 
-- 📫 consultas a: mfg750@gmail.com mfg750@marcosgarcia.com.ar
+- 📫 consultas a: pguerrero2608@gmail.com
 
 <!---
 nippur750/nippur750 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
