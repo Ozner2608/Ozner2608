@@ -10,51 +10,74 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
+- :school: Actualmente estoy estudiando en ... Universidad Nacional de Ingeniería
+- 🔭 Actualmente, estoy trabajando como maestro de matemática en ... Instituto Pedagógico La Salle
+- 🌱 Actualmente, estoy queriendo aprender ... Python
+- 👯 Estoy colaborando  ... en Delicias Jurásicas
+- 🤔 Solicito ayuda cuando se me es necesaria ... 
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+- ⚡ Fun fact: ... Jugar eFootball cuando quiero matar el tiempo.
 <br/>
 
-### Languages and Tools:
-<div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+### 🚀 Languages and Tools
+
+<div align="center">
+
+  <!-- Lenguajes de Programación -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+
+  <br/>
+
+  <!-- Herramientas/Tecnologías -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+
+</div>
+
+
+### 💻 Máquina de trabajo
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Windows%2011-HP%20Victus%20Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-12GB%20DDR4-FFDD00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-SSD-000000?style=for-the-badge&logo=ssd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GeForce_RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</div>
+
+
+### 🎮 Gaming:
+<div align="center">
+
+  <!-- Plataformas -->
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=epicgames&logoColor=white" />
+
+  <br/>
+
+  <!-- Juegos -->
+  <img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/League%20of%20Legends-000000?style=for-the-badge&logo=leagueoflegends&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rocket%20League-0038A8?style=for-the-badge&logo=rocketleague&logoColor=white" />
+  <img src="https://img.shields.io/badge/EA%20Sports%20FC-000000?style=for-the-badge&logo=easports&logoColor=white" />
+  <img src="https://img.shields.io/badge/eFootball-0033FF?style=for-the-badge&logo=efootball&logoColor=white" />
+  <img src="https://img.shields.io/badge/Call%20of%20Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white" />
+  <img src="https://img.shields.io/badge/Free%20Fire-FFCC00?style=for-the-badge&logo=garena&logoColor=black" />
+  <img src="https://img.shields.io/badge/Candy%20Crush-FF7F9A?style=for-the-badge&logo=candy-crush&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pokémon-FFCB05?style=for-the-badge&logo=pokemon&logoColor=black" />
+
 </div>
 <br/>
 
-### Machine:
-<div display="flex">
-  <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
-<br>
-
-### Gaming:
-<div display="flex">
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PUBG-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
-</div>
-<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
